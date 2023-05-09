@@ -31,4 +31,31 @@ A seamless interface for using your (imaginary) credit card where you can verify
 # Flowchart
 
 ## algorithm
-- currently in the works
+
+1.	Start
+2.	Print menu with the options:
+- 1 to register
+-	2 to login
+-	3 for help
+-	0 to exit
+3.	Prompt user for input 0 to 3
+4.	If the input is 1, go to registration process
+5.	If the input is 2, go to login process
+6.	If the input is 3, display the help menu
+7.	If the input is 0, exit the program
+8.	If the input is an invalid option, print invalid input menu
+9.	End the program
+Registration process:
+10.	Prompt user for their name
+11.	Prompt user for their credit card number
+12.	Check what credit card type is
+-	If the card is valid, it is either a VISA, Master card or American Express card
+-	If the card is invalid, print out invalid number screen
+13.	Prompt user for their password
+14.	Let the user validate if the given information is right
+15.	If the user validates the information, save and store the user information
+Login process:
+16.	Prompt user for their name and password
+17.	Check if the user’s name and password matches
+-	If user’s name and password match, go to profile page
+-	If user’s name and password doesn’t match, print login error
