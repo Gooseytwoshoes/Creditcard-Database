@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T05:18:16.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZK3pZPM7tIpNuzTJq1R0" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T05:23:00.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CJy7XJ4d1N4V5adQIOMy" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1687" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,10 +343,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZ0IdaPAbxp2bUdvrzzP-133" value="print how to redeem rewards" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZ0IdaPAbxp2bUdvrzzP-135" value="B" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="1810" width="60" height="60" as="geometry" />
+          <mxGeometry x="730" y="1770" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
