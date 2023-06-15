@@ -26,6 +26,9 @@ A seamless interface for using your (imaginary) credit card where you can verify
 <br>
 
 # Flowchart
+<p align = "center">
+  <img src="https://github.com/Gooseytwoshoes/Creditcard-Database/blob/main/README-Asset/CreditWise.flowchart.png" alt="flowchart" width = "1500"/>
+</p>
 
 ## algorithm
 1. START
